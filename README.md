@@ -2,4 +2,5 @@
 
 A simple tool to help you checkin automatically
 
-usage: sscheckinhelper site user pass
+usage: 
+  sscheckinhelper site user pass
