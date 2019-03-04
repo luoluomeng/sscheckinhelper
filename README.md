@@ -3,4 +3,7 @@
 A simple tool to help you checkin automatically
 
 usage: 
-  sscheckinhelper site user pass
+```
+sscheckinhelper <site> <user> <pass>
+```
+
