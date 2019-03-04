@@ -28,7 +28,7 @@ func main() {
 	var s CheckInResp
 	loginurl := site + "/auth/login"
 	userurl := site + "/user"
-	checkinurl := site + "/checkin"
+	checkinurl := site + "/user/checkin"
 	session := csession.New()
 	session.HeadersFunc = func(req *http.Request) {
 		csession.DefaultHeadersFunc(req)
